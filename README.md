@@ -3,9 +3,9 @@
 ## login with ldap
 
 ## customer page
-can click product (add edit)
-show picture, price
+### can click product (add edit)
+### show picture, price
 
 ## admin page
-can add edit delete product
-show picture, price
+### can add edit delete product
+### show picture, price
